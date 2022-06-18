@@ -31,7 +31,7 @@ This repository contains all Julia and R code for this analysis as well as the i
 | **results.R** | produces all final figures |
 | **scripts/fit.jl** | fits the main model to the weekly RSV cases |
 | **scripts/visualize.jl** | to quickly visualize the results of the selected fit(s). Produces a PDF file |
-| **scripts/postprocessing.jl** | simulates the posterior predictive of the selected fit(s). Produces several csv files |
+| **scripts/postprocessing.jl** | simulates the posterior predictive of the selected fit(s). Produces several csv files (posterior samples, posterior quantiles (summary) and posterior predictive for the model trajectory. Please not that the latter files are too large to upload on Github. |
 | **scripts/vaccsim.jl** | simulates the theoretical disease dynamics under different vaccination scenarios, based on the parameters from the selected fit(s). Produces several csv files |
 | **src/models.jl** | Contains the turingmodel |
 | **src/differential_equations/** | Contains the ODE models for the fitting (SEIRRS4) and the vaccination simulatino (SEIRRS4Vacc and SEIRRS4Vacc_pulse) |
