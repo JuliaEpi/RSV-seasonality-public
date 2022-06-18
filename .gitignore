@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+RSV-seasonality.Rproj
+archive
+output
+plots
+manuscript
+playground.jl
+benchmarking.xlsx
+data/OxCGRT_timeseries_all.xlsx
+data/BIRTHS_MONTH_OCCURRENCE_20022021005533762.csv
+data/Global_Mobility_Report_2021-04-11.csv
+data/Global_Mobility_Report_2022-02-06.csv
