@@ -1,5 +1,5 @@
 # The magnitude of the seasonal forcing of RSV and implications for vaccination strategies
-Fabienne Krauer<sup>1</sup>, Tor Erlend Fjelde<sup>2</sup>, Mihaly Koltai<sup>1</sup>, David Hodgson<sup>1</sup>, Marina Treskova-Schwarzbach<sup>3</sup>, Christine Harvey<sup>4</sup>, Mark Jit<sup>1</sup>, Stefan Flasche<sup>1</sup>
+Fabienne Krauer<sup>1</sup>, Tor Erlend Fjelde<sup>2</sup>, Mihaly Koltai<sup>1</sup>, David Hodgson<sup>1</sup>, Marina Treskova-Schwarzbach<sup>3</sup>, Christine Harvey<sup>4</sup>, Mark Jit<sup>1</sup>, Ole Wichmann<sup>3</sup>, Thomas Harder<sup>3</sup>, Stefan Flasche<sup>1</sup>
 
 
 <sup>1</sup> [Centre for Mathematical Modelling of Infectious Diseases](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases), London School of Hygiene & Tropical Medicine, London, UK<br/>
